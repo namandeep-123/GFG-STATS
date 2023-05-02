@@ -45,7 +45,7 @@ export const getGFGStats = async (req: Request, res: Response) => {
       });
     }
     let totalProblemSolved: number = 0;
-    let values: Object = {};
+    let values: any = {};
     let problemDifficultyTag = PROBLEM_LIST;
     let k = 0;
     let rawData = $(data[0]).text();
