@@ -3,8 +3,9 @@
     <img src = "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png">
 	<h3 align="center">An unofficial API for GeeksForGeeks for developers to fetch user details.</h3>
 </p>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="License" src="https://img.shields.io/github/license/namandeep-123/gfg-stats" />
 </p>
 
 > API to Fetch GFG User Details
